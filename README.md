@@ -1,7 +1,7 @@
 # React-Native-Ecommerce
 A boilerplate for a ecommerce mobile app using React Native and Redux running on Expo.
 
-This template was designed by [Amusoftech](https://amusoftech.xyz/) using React Native CLI and was converted to Expo by me.
+This template was designed by [Amusoftech](https://github.com/eramudeep/react-native-ecommerce) using React Native CLI and was converted to Expo by me.
 
 ## Features🔥
 - Login 
