@@ -1,4 +1,5 @@
 {
+  "navigationTypeTabs": true,
   "expo": {
     "name": "shop",
     "slug": "shop",
